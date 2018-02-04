@@ -1,2 +1,6 @@
 # iot2018
-Repo for IOT work in 2018
+## This is where I will store examples for the class in 2018.
+
+
+
+
